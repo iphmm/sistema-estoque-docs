@@ -2,6 +2,12 @@
 
 Este repositório contém a documentação do **Sistema de Estoque para Papelaria**, um projeto que visa a criação de um sistema para gerenciar o estoque de uma loja fictícia de papelaria.
 
+## Repositório do Projeto
+
+O código-fonte do projeto pode ser encontrado [aqui](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DO_PROJETO).
+
+Esse repositório é onde o código do sistema de estoque está sendo desenvolvido, enquanto este repositório contém apenas a documentação.
+
 ## Estrutura da Documentação
 - **[Requisitos](requisitos.md)**: Descrição dos requisitos funcionais e não funcionais.
 - **[Banco de Dados](banco-dados.md)**: Descrição do modelo de dados utilizado.
