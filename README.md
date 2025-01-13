@@ -4,7 +4,7 @@ Este repositório contém a documentação do **Sistema de Estoque para Papelari
 
 ## Repositório do Projeto
 
-O código-fonte do projeto pode ser encontrado [aqui](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DO_PROJETO).
+O código-fonte do projeto pode ser encontrado [aqui](https://github.com/iphmm/sistema-estoque-papelaria/tree/main).
 
 Esse repositório é onde o código do sistema de estoque está sendo desenvolvido, enquanto este repositório contém apenas a documentação.
 
